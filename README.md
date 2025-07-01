@@ -40,7 +40,8 @@ Este script funciona em praticamente qualquer ambiente que tenha **Python instal
 Se tiver Git instalado, use:
 
 ```bash
-git clone https://github.com/lukscode-py/Persona-Selector---basic```
+git clone https://github.com/lukscode-py/Persona-Selector---basic
+```
 
 Ou baixe o projeto em formato .zip
 
@@ -50,7 +51,8 @@ Ou baixe o projeto em formato .zip
 
 Após clonar ou extrair o zip, entre na pasta:
 ```bash
-cd Persona-Selector---basic```
+cd Persona-Selector---basic
+```
 
 ---
 
@@ -58,7 +60,9 @@ cd Persona-Selector---basic```
 
 Agora execute o script principal:
 ```bash
-python code.py```
+python code.py
+```
+
 
 > 💡 Use python3 se estiver em sistemas onde python chama o Python 2.x
 
@@ -68,7 +72,9 @@ python code.py```
 ```bash
 git clone https://github.com/lukscode-py/Persona-Selector---basic
 cd Persona-Selector---basic
-python code.py```
+python code.py
+```
+
 
 ---
 
@@ -79,8 +85,6 @@ Nenhuma instalação adicional de pacotes é necessária.
 Tudo funciona com Python puro.
 
 Os dados estão embutidos no próprio código (code.py) e podem ser editados facilmente.
-
-
 
 ---
 
